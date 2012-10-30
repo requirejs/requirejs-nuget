@@ -13,9 +13,9 @@
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2010-2012</copyright>
     <tags>JavaScript</tags>
-    <files>
-      <file src="content\Scripts\require.js" target="content\Scripts\require.js" />
-      <file src="content\Scripts\r.js" target="content\Scripts\r.js" />
-    </files>
   </metadata>
+  <files>
+    <file src="content\Scripts\require.js" target="content\Scripts\require.js" />
+    <file src="content\Scripts\r.js" target="content\Scripts\r.js" />
+  </files>
 </package>
