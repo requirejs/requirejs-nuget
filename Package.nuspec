@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RequireJS</id>
+    <version>2.1.1</version>
+    <authors>James Burke</authors>
+    <owners>James Burke</owners>
+    <licenseUrl>https://github.com/jrburke/requirejs/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://requirejs.org</projectUrl>
+    <iconUrl>http://requirejs.org/i/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A JavaScript module loader.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2010-2012</copyright>
+    <tags>JavaScript</tags>
+    <files>
+      <file src="content\Scripts\require.js" target="content\Scripts\require.js" />
+      <file src="content\Scripts\r.js" target="content\Scripts\r.js" />
+    </files>
+  </metadata>
+</package>
