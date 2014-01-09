@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>RequireJS</id>
-    <version>2.1.9</version>
+    <version>2.1.10</version>
     <authors>James Burke</authors>
     <owners>James Burke</owners>
     <licenseUrl>https://github.com/jrburke/requirejs/blob/master/LICENSE</licenseUrl>
@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A JavaScript module loader.</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2010-2013</copyright>
+    <copyright>Copyright 2010-2014</copyright>
     <tags>JavaScript</tags>
   </metadata>
   <files>
