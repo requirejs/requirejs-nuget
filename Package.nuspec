@@ -2,16 +2,16 @@
 <package >
   <metadata>
     <id>RequireJS</id>
-    <version>2.1.11</version>
+    <version>2.3.0</version>
     <authors>James Burke</authors>
     <owners>James Burke</owners>
-    <licenseUrl>https://github.com/jrburke/requirejs/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/requirejs/requirejs/blob/master/LICENSE</licenseUrl>
     <projectUrl>http://requirejs.org</projectUrl>
     <iconUrl>http://requirejs.org/i/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A JavaScript module loader.</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2010-2014</copyright>
+    <copyright>Copyright 2010-2016</copyright>
     <tags>JavaScript</tags>
   </metadata>
   <files>
